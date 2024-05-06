@@ -1,6 +1,7 @@
 ok, not as expected, but here you are
 ```
-和她一起躺在床上，并不觉得窗外的星星和当年的云海有什么不同。时间流逝改变了我们的样子，带走许许多多的东西，唯独不能把我们两个分开。我和她依靠着彼此站在这湍急的河流里，一起经历过摔倒，焦虑过停留，憧憬过远方。最终下定决心，向前一步，又一步。
+和她一起躺在床上，并不觉得窗外的星星和当年的云海有什么不同。时间流逝改变了我们的样子，带走许许多多的东西，却唯独不能把我们两个分开。
+我和她依靠着彼此站在这湍急的河流里，一起经历过摔倒，焦虑过停留，憧憬过远方。最终下定决心，向前一步，又一步。
 ```
 <img   align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryusei423&locale=cn&line_height=33&theme=dracula&langs_count=5"/>
 <img   align="center" src="https://github-readme-stats.vercel.app/api?username=ryusei423&locale=cn&line_height=33&show_icons=true&hide=&theme=dracula&rank_icon=default"/>
