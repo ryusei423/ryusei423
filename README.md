@@ -1,3 +1,1 @@
-```
-布洛妮娅是勇敢的孩子
-```
+![](https://skydome.pw/static/CharaStudio-2024-12-29-10-37-06-Render.png)
